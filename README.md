@@ -1,4 +1,4 @@
-# Aeather App
+# Weather App
 
 ## Requirements
 
